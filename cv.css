@@ -1,0 +1,89 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+.col-sm-5.left__block {
+  background-color: rgb(219, 219, 219);
+}
+img.img-fluid.d-block.mx-auto.rounded-circle.border.border-info.left__img {
+  width: 30%;
+  border-width: 2px !important;
+}
+p.text-info.text-center.my-sm-3.rounded.left__name {
+  font-family: "Roboto", sans-serif;
+  font-size: 22px;
+}
+.left__header {
+  font-family: "Roboto", sans-serif !important;
+  border-width: 2px !important;
+}
+.left__text {
+  font-family: segoe ui light;
+  font-size: 12px;
+  font-weight: 900;
+}
+.ic1::before {
+  content: "\f073";
+  font-family: "Font awesome 5 free";
+  font-weight: 900;
+  color: rgb(21, 170, 210);
+  margin-left: 2px;
+  margin-right: 8px;
+}
+.ic2::before {
+  content: "\f007";
+  font-family: "Font awesome 5 free";
+  font-weight: 900;
+  color: rgb(21, 170, 210);
+  margin-left: 2px;
+  margin-right: 8px;
+}
+.ic3::before {
+  content: "\f87b";
+  font-family: "Font awesome 5 free";
+  font-weight: 900;
+  color: rgb(21, 170, 210);
+  margin-left: 2px;
+  margin-right: 8px;
+}
+.ic4::before {
+  content: "\f2b6";
+  font-family: "Font awesome 5 free";
+  font-weight: 900;
+  color: rgb(21, 170, 210);
+  margin-left: 2px;
+  margin-right: 8px;
+}
+.ic5::before {
+  content: "\f3c5";
+  font-family: "Font awesome 5 free";
+  font-weight: 900;
+  color: rgb(21, 170, 210);
+  margin-left: 2px;
+  margin-right: 8px;
+}
+.pg1::before {
+  content: "ABC";
+}
+.left__skill {
+  margin-top: -5px;
+  margin-right: -12px;
+  font-size: 13px;
+}
+/* END LEFTBLOCK */
+.right__block {
+  background-color: rgb(244, 244, 244);
+}
+.right__header {
+  font-family: "Roboto", sans-serif !important;
+  font-size: 22px;
+}
+.right__title {
+  font-family: "Roboto", sans-serif !important;
+  font-size: 16px;
+}
+.right__text {
+  font-family: segoe ui light;
+  font-size: 16px;
+  font-weight: 900;
+}
